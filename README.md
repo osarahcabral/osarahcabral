@@ -44,4 +44,27 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## My Work Experience 💼
+
+[<img align="left" height="92px" width="92px" alt="LinkJr Logo" src="https://media.licdn.com/dms/image/v2/D4E0BAQHaPS3HOuR42A/company-logo_200_200/company-logo_200_200/0/1726182004162/linkjr_logo?e=2147483647&v=beta&t=_3D9hbJoRi_ZGSFv7n16vxEGXH17QCYqORQwEyR4kKo"/>](https://www.linkjr.com.br/)
+
+**UX/UI Design** \
+[*LinkJr*](https://linkjr.com.br/) • Junior Enterprise \
+Skills: `Figma`,`Framer`\
+Ago 2024 - Ago 2025
+
+[<img align="left" height="92" width="92" alt="UFPA Logo" src="https://github.com/user-attachments/assets/16078635-e7e0-408c-88d7-522323384b70"/>](https://campuscastanhal.ufpa.br/)
+
+**Computer and Specific Topics Tutor** \
+[*Programa Tutoria Discente - UFPA*](https://tutoriadiscente.ufpa.br/) • Internship \
+Skills: `Portugol Studio`, `Python`, `Microsoft Office`, `Linux`\
+Nov 2024 - Jul 2025
+
+[<img align="left" height="92px" width="92px" alt="Compass UOL Logo" src="https://th.bing.com/th/id/OIP.q0mi56G431gQ1R8rF322RgHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7"/>](https://compass.uol/) 
+
+**DevSecOps Intern** \
+[*Compass UOL*](https://compass.uol) • Part-Time Remote \
+Skills: `Linux`, `Bash`, `AWS`, `Docker`, `Kubernetes` \
+Jul 2025 - Set 2025
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:d0a488,100:d0a488&height=120&section=footer"/>
