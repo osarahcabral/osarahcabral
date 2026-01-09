@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:d0a488,100:d0a488&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4a3f,100:bf4a3f&height=120&section=header"/>
 
 # Hi there👋🏾 I'm Sarah Cabral ✨
 
@@ -85,4 +85,4 @@ Ago 2024 - Ago 2025
 ![](https://raw.githubusercontent.com/osarahcabral/osarahcabral/main/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/osarahcabral/osarahcabral/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:d0a488,100:d0a488&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4a3f,100:bf4a3f&height=120&section=footer"/>
